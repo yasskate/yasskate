@@ -11,7 +11,7 @@ Welcome to my profile 🤓 🤘🏼
 		</span >
 		</p>
 
-## Technologies I enjoy to work on 🛠  🚀 
+## Technologies I enjoy to work with 🛠  🚀 
 <p align="center">
   <span align="center" class="d-flex">
   	<img title="JavaScript" alt="JS" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png" />
